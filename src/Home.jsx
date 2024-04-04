@@ -15,7 +15,9 @@ function Home() {
            <h2 className='text-[6vw] font-semibold leading-none'> YOUR TREAT</h2>
             <h2 className='text-[5vw] font-bold leading-none'>NOW</h2>
            </div>
+    
             </div>
+           
         </div>
     </div>
   )
